@@ -28,21 +28,6 @@ export const initialBlocks: ContentBlock[] = [
     },
   },
   {
-    id: '4',
-    type: 'headline',
-    content: {
-      text: 'AI-Powered Content',
-      level: 2,
-    },
-  },
-  {
-    id: '5',
-    type: 'paragraph',
-    content: {
-      text: 'Stuck on what to write? Use our built-in AI assistant to generate content suggestions for any block. Just click the magic wand icon that appears when you hover over a block.',
-    },
-  },
-  {
     id: '6',
     type: 'cta',
     content: {
